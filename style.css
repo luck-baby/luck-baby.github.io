@@ -2,6 +2,6 @@ a {
   color: green;
 }
 
-.box {
+aside.box {
   flex-direction: row ;
 }
