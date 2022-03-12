@@ -2,13 +2,7 @@ a {
   color: green;
 }
 
-.page{
-  height:100vh;
-  display:flex;
-  flex-direction: column;
-  font-weight:bold;
-  font-size:xx-large
-}
+
   
 .page-body{
   display: flex;
