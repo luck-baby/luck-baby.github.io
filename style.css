@@ -20,18 +20,14 @@ body{
    .page-aside{
   display: flex;
      flex-direction: column;
-      flex: auto;
      align-items: center;
-       flex: 1;
 }
 
  .page-article{
   display: flex;
    flex-direction: column;
-    flex: auto;
    justify-content: center;
   align-items: center;
-       flex: 3;
 }
 
 .page-footer{
