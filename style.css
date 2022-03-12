@@ -4,27 +4,23 @@ a {
 
 .page-header{
   display: flex;
+  flex-direction: column;
   justify-content:lefx-start;
 }
   
-.page-body{
-  display: flex;
-  flex-direction: column;
-}
-
-.page-main{
-  display: flex;
-  flex: auto;
-}
 
    .page-aside{
   display: flex;
+     flex-direction: column;
+      flex: auto;
      align-items: center;
        flex: 1;
 }
 
  .page-article{
   display: flex;
+   flex-direction: column;
+    flex: auto;
    justify-content: center;
   align-items: center;
        flex: 3;
@@ -32,6 +28,7 @@ a {
 
 .page-footer{
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   align-items: flex-end;
 }
