@@ -1,5 +1,5 @@
 a {
-  color: green;
+  color: red;
 }
 
 .body{
@@ -13,11 +13,11 @@ a {
 }
 
    .aside{
-  display: flex;
+ 
        flex: 1;
 }
 
  .article{
-  display: flex;
+  
        flex: 3;
 }
