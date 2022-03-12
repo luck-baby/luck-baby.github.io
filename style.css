@@ -16,7 +16,7 @@ main{
 .page-header{
   display: flex;
   flex-direction: column;
-  justify-content:lefx-start;
+  justify-content:flex-start;
 }
   
 
@@ -24,6 +24,7 @@ main{
   display: flex;
      flex-direction: column;
      align-items: center;
+     flex-wrap:wrap;
      flex: 1;
 }
 
