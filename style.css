@@ -2,7 +2,10 @@ a {
   color: green;
 }
 
-
+.page-header{
+  display: flex;
+  justify-content:lefx-start;
+}
   
 .page-body{
   display: flex;
@@ -16,10 +19,19 @@ a {
 
    .page-aside{
   display: flex;
+     align-items: center;
        flex: 1;
 }
 
  .page-article{
   display: flex;
+   justify-content: center;
+  align-items: center;
        flex: 3;
+}
+
+.page-footer{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
 }
