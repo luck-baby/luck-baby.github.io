@@ -2,6 +2,14 @@ a {
   color: green;
 }
 
+body{
+  weith:100%;
+  height:px;
+  display: flex;
+  flex-direction: column;
+  background:yellow;
+}
+
 .page-header{
   display: flex;
   flex-direction: column;
