@@ -2,4 +2,22 @@ a {
   color: green;
 }
 
+.page-body{
+  display: flex;
+  flex-direction: column;
+}
 
+.page-main{
+  display: flex;
+  flex: auto;
+}
+
+   .page-aside{
+  display: flex;
+       flex: 1;
+}
+
+ .page-article{
+  display: flex;
+       flex: 3;
+}
