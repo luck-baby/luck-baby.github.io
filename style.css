@@ -5,19 +5,20 @@ a {
 body{
   display: flex;
   flex-direction: column;
-  width:50%;
+  
 }
 
 main{
   display:flex;
   flex:6;
   flex:auto;
-   width:50%;
+  width:50%;
 }
 
 .page-header{
   display: flex;
   align-items:flex-end;
+  width:50%;
 }
   
 
@@ -39,4 +40,5 @@ main{
 .page-footer{
   display: flex;
   align-items: flex-end;
+  width:50%;
 }
