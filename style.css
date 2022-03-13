@@ -9,7 +9,7 @@ body{
 
 main{
   display:flex;
-  flex: auto;
+  flex:auto;
 }
 
 .page-header{
@@ -21,7 +21,7 @@ main{
    .page-aside{
   display: flex;
      align-items: center;
-     flex-wrap: nowrap;
+     flex-wrap: wrap;
      flex: 1;
 }
 
