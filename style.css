@@ -25,7 +25,7 @@ main{
   display: flex;
      align-items: center;
      flex-wrap: wrap;
-     flex: 2;
+     flex: 1;
 }
 
  .page-article{
