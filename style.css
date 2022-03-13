@@ -21,6 +21,7 @@ main{
    .page-aside{
   display: flex;
      align-items: center;
+     flex-wrap: nowrap;
      flex: 1;
 }
 
@@ -28,6 +29,7 @@ main{
   display: flex;
    justify-content: center;
   align-items: center;
+   flex-wrap: wrap;
    flex: 3;
 }
 
