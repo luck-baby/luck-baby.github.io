@@ -5,7 +5,6 @@ a {
 body{
   display: flex;
   flex-direction: column;
-  width:100%;
   
   
 }
@@ -14,14 +13,11 @@ main{
   display:flex;
   flex:6;
   flex:auto;
-  width:50%;
-  background-color:reg;
 }
 
 .page-header{
   display: flex;
   align-items:flex-end;
-  width:50%;
   background-color:green;
 }
   
@@ -44,6 +40,5 @@ main{
 .page-footer{
   display: flex;
   align-items: flex-end;
-  width:50%;
   background-color:yellow;
 }
