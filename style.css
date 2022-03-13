@@ -9,6 +9,7 @@ body{
 
 main{
   display:flex;
+  flex:6;
   flex:auto;
 }
 
