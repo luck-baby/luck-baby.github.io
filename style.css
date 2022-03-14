@@ -31,14 +31,13 @@ main{
  .page-article{
   display: flex;
    justify-content: center;
-  align-items: center;
+   align-items: center;
    flex-wrap: wrap;
    flex: 3;
 }
 
 .page-footer{
   display: flex;
-  justify-content: flex-end;
    align-items: center;
-  background-color:yellow;
+   background-color:yellow;
 }
