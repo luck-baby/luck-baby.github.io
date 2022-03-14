@@ -38,6 +38,7 @@ main{
 
 .page-footer{
   display: flex;
-   align-items: center;
+   justify-content: center;
+   align-items: flex-end;
    background-color:yellow;
 }
