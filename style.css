@@ -4,36 +4,33 @@ a {
 
 body{
   display: flex;
-  flex-direction: column;
-  
-  
+    flex-direction: column;
 }
 
 main{
   display:flex;
-  flex:auto;
+    flex:auto;
 }
 
 .page-header{
   display: flex;
-  justify-content: center;
-  background-color:green;
+    justify-content: center;
+    background-color:green;
 }
   
-
-   .page-aside{
+ .page-aside{
   display: flex;
-     align-items: center;
-     flex-wrap: wrap;
-     flex: 1;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 1;
 }
 
  .page-article{
   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-wrap: wrap;
-   flex: 3;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 3;
 }
 
 .page-footer{
