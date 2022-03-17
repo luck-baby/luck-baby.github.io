@@ -1,3 +1,44 @@
 a {
   color: green;
 }
+
+body{
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+
+main{
+  display:flex;
+  flex:auto;
+}
+
+.page-header{
+  display: flex;
+  justify-content: center;
+  background-color:green;
+}
+  
+
+   .page-aside{
+  display: flex;
+     align-items: center;
+     flex-wrap: wrap;
+     flex: 1;
+}
+
+ .page-article{
+  display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   flex: 3;
+}
+
+.page-footer{
+  display: flex;
+   justify-content: center;
+   align-items: flex-end;
+   background-color:yellow;
+}
