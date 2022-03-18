@@ -12,20 +12,20 @@ main{
     flex:auto;
 }
 
-.page-header{
+header{
   display: flex;
     justify-content: center;
     background-color:green;
 }
   
- .page-aside{
+aside{
   display: flex;
     align-items: center;
     flex-wrap: wrap;
     flex: 1;
 }
 
- .page-article{
+article{
   display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +33,7 @@ main{
     flex: 3;
 }
 
-.page-footer{
+footer{
   display: flex;
    justify-content: center;
    align-items: flex-end;
