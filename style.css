@@ -5,7 +5,8 @@ a {
 body{
   display: flex;
     flex-direction: column;
-    background-color:blue;
+    background-image:url('https://img1.baidu.com/it/u=1835632200,1111164239&fm=253&fmt=auto&app=138&f=JPG?w=801&h=500');
+  
 }
 
 main{
